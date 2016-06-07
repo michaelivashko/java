@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - movieland@localhost" uuid="5a8e7a26-60c6-42b6-a635-44c3542debf8">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>movieland.*</schema-pattern>
+      <default-schemas>movieland.*</default-schemas>
+    </data-source>
+  </component>
+</project>
